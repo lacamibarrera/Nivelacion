@@ -1,0 +1,18 @@
+.barra-navegacion {
+    width: 100%;
+    background-color: lightcoral;
+}
+.barra-navegacion ul {
+    list-style: none;
+    display: flex;
+}
+.barra-navegacion ul li {
+    margin: 10px 5px;
+}
+.barra-navegacion ul li a {
+text-decoration: none;
+text-align: center;
+border-radius: 10px;
+justify-content: center;
+
+}
